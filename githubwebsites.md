@@ -5,6 +5,8 @@ You can use GitHub to create webpages or whole websites. There are a couple of m
 * Use the automatic webpage generator to take your existing Markdown files and turn them into webpages
 * Create HTML files yourself
 
+[You can find more information here](https://help.github.com/categories/github-pages-basics/)
+
 ## Choosing a repo to publish from
 
 There are 3 main places you can publish your website from:
