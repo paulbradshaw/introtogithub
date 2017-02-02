@@ -2,7 +2,7 @@
 
 ## Stage 1: Getting to know the GitHub website
 
-GitHub allows you to share files and create webpages, but it also allows you to copy and adapt ('fork') code made by others, and collaborate with others. You can edit, upload and delete files on the website, although below I've outlined other things you can do beyond the website too. I've also created [a page explaining more about how it is used within journalism](https://github.com/paulbradshaw/introtogithub/blob/master/github_in_journalism.md)
+GitHub allows you to store and share files and create webpages, but it also allows you to copy and adapt ('fork') code made by others, and collaborate with others. You can edit, upload and delete files on the website, although below I've outlined other things you can do beyond the website too. I've also created [a page explaining more about how it is used within journalism](https://github.com/paulbradshaw/introtogithub/blob/master/github_in_journalism.md)
 
 Things to do once you've set up an account on GitHub:
 
@@ -70,3 +70,5 @@ Sometimes when more than one person is working on a project, their changes *conf
 Forking is very similar to cloning. The key differences are that cloning simply makes a copy; forking not only makes a copy, but creates a connection between your (forked) version of the project, and the original. You can, for example, choose to update your project with any new additions to the original; or submit your changes to be considered for inclusion in the original project (a **pull request**).
 
 You can fork someone else's repo, and then submit a pull request to have it reintegrated into the main version.
+
+[I've created a separate page explaining more about how to get started with forking here](https://github.com/paulbradshaw/introtogithub/blob/master/github_forking.md)
