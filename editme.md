@@ -10,7 +10,20 @@ For example...
 
 
 Under this section, write a new section introducing yourself. Try to find out how to use Markdown to create suhbeadings, links, and bullets, etc.
+
 im editing 
 =======
 Fancied writing a couple of words on this editme file.
+=======
+
+
+Welcome to Github: the secret world of janerockhouse **this is me practising bold** ***and bold with italics***
+
+Fancied writing a couple of words on this editme file.
+
+Learning how to manage as a chef on GetHub
+
+Fancied writing a couple of words on this editme file.
+
+
 
