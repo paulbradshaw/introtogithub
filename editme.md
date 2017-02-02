@@ -8,5 +8,10 @@ For example...
 
 ## Samuel Gould
 
+
+Under this section, write a new section introducing yourself. Try to find out how to use Markdown to create suhbeadings, links, and bullets, etc.
+Learning how to manage as a chef on GetHub
+
 Fancied writing a couple of words on this editme file.
 ======
+
