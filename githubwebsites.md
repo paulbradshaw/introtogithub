@@ -96,7 +96,7 @@ With your index page created, you can now create the rest of the site. I'm obvio
 
 First, you can create new pages just as you created index.html - use **Create new file** and make sure that your new file ends in `.html`. 
 
-When *linking* to those other pages, however, you need to include the name of the repo in the link, or just use the whole link. For example, if I add a file called `newpage.html` to this repo then the link to that should be:
+When *linking* to those other pages, however, you need to **include the name of the repo in the link**, or just use the whole link. For example, if I add a file called `newpage.html` to this repo then the link to that should be:
 
 `<a href="/introtogithub/newpage.html">`
 
