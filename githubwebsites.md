@@ -106,3 +106,4 @@ Or if you just want to keep things simple:
 
 The same applies if you want to embed any images or media.
 
+Once you've got to grips with the basic process that's it - you're all set to create and update your own GitHub Pages website!
