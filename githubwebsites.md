@@ -59,9 +59,20 @@ GitHub will now begin publishing your website. Above you should see an area wher
 
 It will take a few seconds to create your new site, but after a while when you click on your GitHub Pages link, you should be taken to the working webpage (which may be blank for now). 
 
-## Editing your homepage
+## Editing your GitHub Pages website
 
-The homepage of any website will always have one of just a few names: `index`, `default` or `home` followed by `.html` or `htm` are typical examples. When a browser goes to a URL like `https://paulbradshaw.github.io/introtogithub/` the server [will look for a file with one of those names](https://uk.godaddy.com/help/what-file-displays-when-someone-browses-to-my-domain-name-60). For example the URL `https://paulbradshaw.github.io/introtogithub/` will show you the same thing as `https://paulbradshaw.github.io/introtogithub/index.html`
+Now you need to remember that there are **two parts** to your GitHub Pages website:
+
+* The website itself, which uses github.io, e.g. `https://paulbradshaw.github.io/introtogithub/`.
+* The repo with the files that *generate* the website, which uses github.com, e.g. `https://github.com/paulbradshaw/introtogithub/` (more specifically, remember that those files are probably within a `gh-pages` branch, or the `/docs` folder of that repo).
+
+To edit your website, you need to make sure that you are on GitHub.com, but then switch to the github.io website to see the results. You won't see the results immediately - it takes 5-15 seconds for the site to be updated to reflect any changes. 
+
+For that reason you may prefer to edit the file and preview it locally (on your machine, not on the web) and then upload or paste the changes into the live version on GitHub, at least once you're comfortable with the basic process.
+
+### Your homepage: index.html
+
+The homepage of any website will always have one of just a few filenames: `index`, `default`, or `home` followed by `.html` or `htm` are typical examples. When a browser goes to a URL like `https://paulbradshaw.github.io/introtogithub/` the server [will look for a file with one of those names](https://uk.godaddy.com/help/what-file-displays-when-someone-browses-to-my-domain-name-60). For example the URL `https://paulbradshaw.github.io/introtogithub/` will show you the same thing as `https://paulbradshaw.github.io/introtogithub/index.html`
 
 All you really need to know is: *make sure you call your homepage file* `index.html`. 
 
@@ -69,4 +80,29 @@ Obviously you can edit that HTML document however you like, making sure to use H
 
 You can then add other files with any name you like, and link to them accordingly.
 
-Each time you save changes, you can test the results 
+Test your website works by editing the `index.html` file you created earlier so it works as a basic HTML document. If you're too lazy to type it out here's a basic example to adapt:
+
+```html
+<html>
+<body>
+<p>This is just a demonstration.</p>
+</body>
+</html>
+```
+
+### Linking to other pages
+
+With your index page created, you can now create the rest of the site. I'm obviously not going to explain web design principles here, but only how to make sure that links and images etc. work on your GitHub Pages site.
+
+First, you can create new pages just as you created index.html - use **Create new file** and make sure that your new file ends in `.html`. 
+
+When *linking* to those other pages, however, you need to include the name of the repo in the link, or just use the whole link. For example, if I add a file called `newpage.html` to this repo then the link to that should be:
+
+`<a href="/introtogithub/newpage.html">`
+
+Or if you just want to keep things simple:
+
+`<a href="https://paulbradshaw.github.io/introtogithub/newpage.html">`
+
+The same applies if you want to embed any images or media.
+
