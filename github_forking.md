@@ -35,5 +35,5 @@ It may be that you want to fork a repo not to suggest changes but just to keep u
 
 Your fork should now be up to date with any changes made since you forked it (or last updated it).
 
-*Geek note: at the last stage (6) above, you can - instead of **Merge pull request**, choose **Rebase and merge**. You can [find out more about rebasing here](https://www.sbf5.com/~cduan/technical/git/git-5.shtml).*
+*Geek note: at the last stage (6) above, you can - instead of **Merge pull request**, choose **Rebase and merge**. This creates a simpler commit history. You can [find out more about rebasing here](https://www.sbf5.com/~cduan/technical/git/git-5.shtml).*
 
