@@ -1,6 +1,7 @@
 # Reverting to previous versions
 
 One of the main features of GitHub is its ability to keep a record of all the changes you have made to a repo.
+<<<<<<< HEAD
 
 Every time you make a change it is called a '**commit**'. 
 
@@ -19,3 +20,5 @@ The commit history of specific *branches* have the branch name after `commits/`,
 You can revert relatively easily in the desktop client. On the left hand side you should see two tabs: *Changes*, and *History*. Switch to *History* and you can see a list of all the commits made in that repo.
 
 To revert to a commit, right-click on it, and select **Revert this commit**.
+=======
+>>>>>>> parent of 7d4b379... Update reverting.md
