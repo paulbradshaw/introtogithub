@@ -24,4 +24,4 @@ To revert a commit, right-click on it, and select **Revert this commit**.
 
 ## Reverting using command line
 
-Most reverting needs to be done on the command line. You can [find more details on how to undo various things in GitHub using command line here](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+Most reverting needs to be done on the command line. You can [find more details on how to undo various things in GitHub using command line here](https://github.com/blog/2019-how-to-undo-almost-anything-with-git). You will need to navigate to your repo folder using `ls` (to list folders in the current directory) `cd` (to change the current directory to one of those). The command `git reset HEAD~` can be used to roll back (undo) to the last commit.
