@@ -28,6 +28,12 @@ Learning how to manage as a chef on GetHub
 
 Fancied writing a couple of words on this editme file.
 
+## Pauline Roche, PG Cert, Data Journalism
+* Doing some homework
+* On holiday
+*	What's next?
+* =======
+
 
 
 
