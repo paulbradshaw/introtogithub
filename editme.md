@@ -18,6 +18,7 @@ im editing
 =======
 Fancied writing a couple of words on this editme file.
 =======
+I am new to Github, just trying to use it.
 
 
 Welcome to Github: the secret world of janerockhouse **this is me practising bold** ***and bold with italics***
