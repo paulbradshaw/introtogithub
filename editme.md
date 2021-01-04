@@ -27,6 +27,12 @@ I am new to Github, just trying to use it.
 
 Have I mentioned how much I ####hate markdown####
 
+## Pauline Roche, PG Cert, Data Journalism
+* Doing some homework
+* On holiday
+*	What's next?
+* =======
+
 
 
 
