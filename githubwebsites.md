@@ -57,9 +57,9 @@ In the settings page look for the **Pages** link on the left. There should be a 
 
 To the right is another drop-down menu where you can select a *folder* within that branch if you want to publish files from just one folder. Or you can leave it as 'root' (which means no specific folder).
 
-GitHub will now begin publishing your website. Above you should see an area where it tells you part of the URL of the new site - it will be your username, followed by github.io.
+GitHub will now begin publishing your website. After a while, refresh the page. Eventually, above the area where you specified the branch etc. you should see an area where it tells you the URL of the new site - it will be your username, followed by github.io, followed by a slash and the repo name.
 
-To create the full URL of the website for this repo, add a slash and the repo name. My username is `paulbradshaw`, for example, so all my GitHub pages sites start with `paulbradshaw.github.io/`, followed by the repo name. The URL for the GitHub Pages site for the repo `introtogithub`, then, is `https://paulbradshaw.github.io/introtogithub/`.
+My username is `paulbradshaw`, for example, so all my GitHub pages sites start with `paulbradshaw.github.io/`, followed by the repo name. The URL for the GitHub Pages site for the repo `introtogithub`, then, is `https://paulbradshaw.github.io/introtogithub/`.
 
 It will take a few seconds to create your new site, but after a while when you click on your GitHub Pages link, you should be taken to the working webpage (which may be blank for now). 
 
